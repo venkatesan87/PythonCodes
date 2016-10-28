@@ -27,7 +27,6 @@ def random_col(board):
 #store the random number in a variable
 ship_row = random_row(board)
 ship_col = random_col(board)
-l
 
 #Game main code. set the number of iterations that player can play
 for turn in range(4):
